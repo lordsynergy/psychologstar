@@ -1,0 +1,107 @@
+# Translation of Themes - Blossom Health Coach in Russian
+# This file is distributed under the same license as the Themes - Blossom Health Coach package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-10 10:10:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Blossom Health Coach\n"
+
+#. Theme Name of the theme
+msgid "Blossom Health Coach"
+msgstr "Blossom Health Coach"
+
+#: functions.php:506
+msgid " Blossom Health Coach | Developed By "
+msgstr " Blossom Health Coach | Разработана "
+
+#: functions.php:508
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:508
+msgid " Powered by %s"
+msgstr "Сайт работает на %s"
+
+#: functions.php:169
+msgid "Secondary font of the site."
+msgstr "Второстепенный шрифт на сайте."
+
+#: functions.php:168
+msgid "Secondary Font"
+msgstr "Второй шрифт"
+
+#: functions.php:147
+msgid "Primary font of the site."
+msgstr "Основной шрифт на сайте."
+
+#: functions.php:146
+msgid "Primary Font"
+msgstr "Основной шрифт"
+
+#: functions.php:126
+msgid "Typography"
+msgstr "Типография"
+
+#: functions.php:111
+msgid "Change the font size of your site title."
+msgstr "Измените размер шрифта заголовка вашего сайта."
+
+#: functions.php:110
+msgid "Site Title Font Size"
+msgstr "Размер шрифта заголовка сайта"
+
+#: functions.php:88
+msgid "Site title and tagline font."
+msgstr "Шрифт заголовок и подзаголовка сайта."
+
+#: functions.php:87
+msgid "Site Title Font"
+msgstr "Шрифт заголовка сайта"
+
+#: functions.php:58
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Ссылка на документацию: %1$sНажмите тут.%2$s"
+
+#: functions.php:56
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Ссылка на демо: %1$sНажмите тут.%2$s"
+
+#: functions.php:43
+msgid "Demo & Documentation"
+msgstr "Демо и документация"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:387
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:389
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:388
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:507
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/blossom-health-coach-free-wordpress-theme/"
+msgstr "https://blossomthemes.com/downloads/blossom-health-coach-free-wordpress-theme/"
